@@ -6,4 +6,6 @@ When you click the "Show stops between MIT and Harvar" button the marker will up
 
 I plan to add more buttons for more options on the map as well as more written instructions on the various features of the map.
 
+<img src="map.png" width="300"/>
+
 <a href="https://vegan-morpheus.github.io/">My Portfolio</a>
